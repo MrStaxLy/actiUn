@@ -12,4 +12,8 @@ require('../../js/scrollspy.js')
 require('../../js/tab.js')
 require('../../js/affix.js')
 
+
 // Ajout d'un com
+
+alert("Branche de test")
+
